@@ -1,0 +1,12 @@
+pyAT - Python ASCII Tablizer
+
+pyat.format(songs, ('artist', 'album', 'title')) 
++---------------------+---------+-----------------------------+
+|        album        |  artist |            title            |
++---------------------+---------+-----------------------------+
+|         4x4         | Deadmau5|      Raise Your Weapon      |
+|..and Justice for All|Metallica|             One             |
+|       Ratatat       | Ratatat |       Seventeen Years       |
+|      Festival 8     |  Phish  |Backwards Down the Numberline|
++---------------------+---------+-----------------------------+
+
